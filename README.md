@@ -3,7 +3,7 @@ Music sharing and Streaming web application
 
 This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack that allows users to share and stream their favorite audio files. Users can create playlists, upload audio files, and explore other users' collections.
 
-Output Screeshots can be found in ~/master/Rythmiq Screeshots
+Output Screeshots can be found in ~/master/Rythmiq Images
 
 ## Features
 * User authentication and authorization using JWT tokens.
