@@ -1,9 +1,9 @@
-# Juke-Stream
+# Rythmiq
 Music sharing and Streaming web application
 
 This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack that allows users to share and stream their favorite audio files. Users can create playlists, upload audio files, and explore other users' collections.
 
-https://user-images.githubusercontent.com/86356896/222892991-06e0b79e-e7b3-47d0-8121-25261df8d728.mp4
+Output Screeshots can be found in ~/master/Rythmiq Screeshots
 
 ## Features
 * User authentication and authorization using JWT tokens.
